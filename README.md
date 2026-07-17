@@ -19,10 +19,10 @@ The objective of this program is to build, evaluate, and deploy end-to-end Machi
 ## 🏠 Week 1: Real Estate Regression Analysis (Detailed)
 
 ### 📋 Objective
-Predict residential house prices in India using key housing attributes. This task focuses on conducting Exploratory Data Analysis (EDA), handling missing data, normalizing features, training baseline and ensemble regressors, and evaluating performance[cite: 1].
+Predict residential house prices in India using key housing attributes. This task focuses on conducting Exploratory Data Analysis (EDA), handling missing data, normalizing features, training baseline and ensemble regressors, and evaluating performance.
 
 ### 📊 Dataset
-* **Source:** [House Price India Dataset (Kaggle)](https://www.kaggle.com/datasets/mohamedafsal007/house-price-dataset-of-india)[cite: 1]
+* **Source:** [House Price India Dataset (Kaggle)](https://www.kaggle.com/datasets/mohamedafsal007/house-price-dataset-of-india)
 * **Features:** Quantitative and qualitative details of residential properties.
 
 ### 🛠️ Key Steps Implemented
